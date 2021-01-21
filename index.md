@@ -1,7 +1,9 @@
-## Welcome to my blog about mathematics and programming
+## Welcome to my blog
 
-I am OUNANE Mohamed Elfarouk welcome to my new home on the internet. Here I talk about whatever I am currently working on/ interested in.
+Welcome to my new home on the internet. This blog is about Mathematics and Programming. Here I talk about whatever I am currently working on/ interested in.
 
-### Who ?
+### Who are you ?
+
+My name is OUNANE Mohamed Elfarouk I am a mathematics student and hobbyist programmer.
 
 
