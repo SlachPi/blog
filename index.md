@@ -4,6 +4,6 @@ Welcome to my new home on the internet. This blog is about Mathematics and Progr
 
 ## Table Of Content
 
-- [Euler's Line](http://cslibrary.stanford.edu/101/)
+- [Euler's Line]()
 
 
